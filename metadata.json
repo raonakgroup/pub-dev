@@ -1,0 +1,6 @@
+{
+  "name": "Pub.dev Explorer",
+  "description": "Explore, search, and discover Dart & Flutter packages from pub.dev with live API integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,6 +1,0 @@
-dispatch:
-  - url: "*.dartdocs.org/*"
-    service: default
-  - url: "dartdocs.org/*"
-    service: default
-
